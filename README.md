@@ -81,8 +81,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=toyalmazi&repo=YOUR_REPO1&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=toyalmazi&repo=YOUR_REPO2&theme=tokyonight" />
 
 </div>
 
@@ -109,7 +109,9 @@
 ---
 
 ## 🎧 Vibin To
-[![Spotify](https://novatorem-omega-blue.vercel.app/api/spotify)](https://open.spotify.com/user/rwf0bfl41srlim6zm8015q4h8?si=ddc7a172a53641f6)
+[![Spotify]<a href="https://open.spotify.com/user/rwf0bfl41srlim6zm8015q4h8">
+  <img src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
 ---
 
