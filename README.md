@@ -10,6 +10,11 @@
 
 ---
 
+<!-- Snake Animation -->
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+
+---
+
 ## 🧊 About Me (Glassmorphism Style)
 <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px;">
 
@@ -128,6 +133,3 @@
 </div>
 
 ---
-
-<!-- Snake Animation -->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
