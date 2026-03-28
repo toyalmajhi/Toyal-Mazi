@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,r,tensorflow,pytorch" /><br>
+<img src="https://skillicons.dev/icons?i=python,mysql,r,tensorflow,pytorch" /><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode" /><br>
 
 <img src="https://img.shields.io/badge/Tableau-orange?style=flat&logo=tableau"/>
