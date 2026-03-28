@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- AI/ML Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Toyal%20Mazi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;UI%2FUX+Designer;Building+Data-Driven+Solutions" />
+
+<!-- AI/ML Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi👋, I'm%Toyal%20Mazi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧊 About Me (Glassmorphism Style)
+## 🧊 About Me
 <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px;">
 
 🎓 Computer Science Graduate  
@@ -36,9 +36,13 @@
 <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-blue?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
+<a href=" ">
 <img src="https://img.shields.io/badge/Python-Basic%20Certified-yellow?style=for-the-badge&logo=python&logoColor=black" />
+</a> 
 
+<a href=" ">
 <img src="https://img.shields.io/badge/UI%2FUX-Design%20Internship-orange?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
 
 </div>
 
@@ -105,7 +109,7 @@
 ---
 
 ## 🎧 Vibin To
-[![Spotify](https://novatorem-omega-blue.vercel.app/api/spotify)](YOUR_SPOTIFY_LINK)
+[![Spotify](https://novatorem-omega-blue.vercel.app/api/spotify)](https://open.spotify.com/user/rwf0bfl41srlim6zm8015q4h8?si=ddc7a172a53641f6)
 
 ---
 
