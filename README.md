@@ -7,12 +7,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Toyal%20Mazi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
-
 ---
-
 <!-- Snake Animation -->
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-
 ---
 
 ## 🧊 About Me
