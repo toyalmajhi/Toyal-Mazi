@@ -61,18 +61,6 @@
 
 ---
 
-## 📊 Projects
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=toyalmazi&repo=REPO_NAME&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=toyalmazi&repo=YOUR_REPO1&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=toyalmazi&repo=YOUR_REPO2&theme=tokyonight" />
-
-</div>
-
----
-
 ### 🔥 Highlight Projects
 - 🧠 **Lumpy Skin Disease Detection (CNN)** → 94% Accuracy  
 - ❤️ **Heart Rate Analysis (EDA)** → Time-series insights  
