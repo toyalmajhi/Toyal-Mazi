@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Languages, Tools and Frameworks
 
 <div align="center">
 
@@ -111,7 +111,7 @@
 
 ---
 
-## 📫 Connect With Me
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Connect With Me...
 
 <div align="center">
 
