@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;UI%2FUX+Designer;Building+Data-Driven+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Aspiring+UI%2FUX+Designer;Building+Data-Driven+Solutions" />
 
 <!-- AI/ML Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Toyal%20Mazi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
